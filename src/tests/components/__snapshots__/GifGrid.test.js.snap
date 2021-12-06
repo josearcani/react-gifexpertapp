@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGrid /> debe mostrar <GifGrid /> correctamente 1`] = `
+<Fragment>
+  <h3
+    className="card-grid animate__animated animate__fadeInDown"
+  >
+    Goku
+  </h3>
+  <p
+    className="animate__animated animate__pulse animate__infinite"
+  >
+    Cargando...
+  </p>
+  <div
+    className="card-grid animate__animated animate__fadeIn"
+  />
+</Fragment>
+`;
